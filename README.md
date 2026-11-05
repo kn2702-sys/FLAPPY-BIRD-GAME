@@ -14,7 +14,7 @@ A modern browser-based recreation of the classic **Flappy Bird** game, built usi
 
 Flappy Bird Game is a lightweight browser game inspired by the classic arcade experience. The objective is simple: navigate the bird through incoming pipes without colliding while achieving the highest possible score.
 
-This project demonstrates game development fundamentals such as animation loops, collision detection, state management, event handling, and responsive user interface design. :contentReference[oaicite:0]{index=0}
+This project demonstrates game development fundamentals such as animation loops, collision detection, state management, event handling, and responsive user interface design.
 
 ---
 
